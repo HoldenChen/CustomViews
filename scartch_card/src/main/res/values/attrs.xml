@@ -1,0 +1,12 @@
+<resources>
+    <declare-styleable name="ScratchCardView">
+        <attr name="backBitmap" format="reference"/>
+        <attr name="coverBitmap" format="reference"/>
+        <attr name="backString" format="string"/>
+        <attr name="stringOrBitmap" format="boolean"/>
+        <attr name="textSize" format="integer"/>
+        <attr name="textColor" format="string"/>
+
+    </declare-styleable>
+
+</resources>
